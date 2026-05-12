@@ -7,19 +7,29 @@ website:
     background: "#f7dce5"
     foreground: "#5b3f45"
     left:
-      - href: index.qmd
-        text: Home
-      - href: projects.qmd
-        text: Marketing Projects
-      - href: digitalmarketing.qmd
-        text: Digital Marketing
-      - href: dashboard.qmd
-        text: Dashboards
-      - href: revealjspresentation.qmd
-        text: Revealjs Presentation Experience
-      - href: googleanalytics.qmd
-        text: Google Analytics 
+    - href: index.html
 
+      text: Home
+
+    - href: projects.html
+
+      text: Marketing Projects
+
+    - href: digitalmarketing.html
+
+      text: Digital Marketing
+
+    - href: dashboard.html
+
+      text: Dashboards
+
+    - href: googleanalytics.html
+
+      text: Google Analytics
+
+    - href: revealjspresentation.html
+
+      text: Revealjs Presentation Experience
 format:
   html:
     theme: cosmo
