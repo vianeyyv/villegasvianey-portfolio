@@ -23,13 +23,13 @@ website:
 
       text: Dashboards
 
-    - href: googleanalytics.html
-
-      text: Google Analytics
-
     - href: revealjspresentation.html
 
       text: Revealjs Presentation Experience
+      
+     - href: googelanalytics.html
+
+      text: Google Analytics
 format:
   html:
     theme: cosmo
