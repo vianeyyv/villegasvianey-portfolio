@@ -1,0 +1,485 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Hi, my name is Vianey Villegas, and I am a student interested in marketing managment, digital marketing, and creative strategy.\nThis portfolio shares a few projects I have worked on while learning how brands use data to understand customers, improve campaigns, and communicate more effectively."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to My Portfolio",
+    "section": "About Me",
+    "text": "About Me\nI am currently building my skills in marketing analytics, digital marketing, and data storytelling. I enjoy projects that combine creativity with startegy, like filming content for social media."
+  },
+  {
+    "objectID": "index.html#career-interest",
+    "href": "index.html#career-interest",
+    "title": "Welcome to My Portfolio",
+    "section": "Career Interest",
+    "text": "Career Interest\nMy goal is to work in a digital marketing related role where I can help a company understand its audience, improve campaign performance, and make better decisions using data."
+  },
+  {
+    "objectID": "index.html#skills-i-am-learning",
+    "href": "index.html#skills-i-am-learning",
+    "title": "Welcome to My Portfolio",
+    "section": "Skills I Am Learning",
+    "text": "Skills I Am Learning\n\nMarketing analytics\n\nSocial media strategy\n\nGoogle Analytics\n\nData visualization\n\nR and Quarto\n\nDashboard design\n\n\nEmail: vianey3146@email.com \n\nLinkedIn"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Google Analytics Portfolio",
+    "section": "",
+    "text": "In this project, I learned how to use Google Analytics to understand website traffic, user behavior, and performance data. I learned how analytics can help improve a website by showing where visitors come from, what pages they view, and how they interact with content.\n\nWhat I Learned\n\nHow to track website visitors\nHow to analyze traffic sources\nHow to understand user behavior\nHow to read reports and key metrics\nHow data helps improve website performance\n\n\n\nSkills I Gained\n\nData analysis\nWebsite performance tracking\nUnderstanding user engagement\nReading analytics reports\nMaking decisions using data\n\n\n\nProject Images\ndata can help improve website performance\n\n\n\nSkills I Gained\n\n\n\nData analysis\n\n\nWebsite performance tracking\n\n\nUnderstanding user behavior\n\n\nUsing analytics reports to make decisions\n\n\n\n&lt;img src=\"google5.png\" alt=\"Google Analytics dashboard screenshot\"&gt;\n&lt;img src=\"google6.png\" alt=\"Website traffic report screenshot\"&gt;\n&lt;img src=\"google1.png\" alt=\"Analytics data chart screenshot\"&gt;"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "This project analyzed how students’ research participation relates to learning outcomes, attitudes, motivation, and future participation intentions.\n\n\n\n\nR\nQuarto\nggplot2\nData visualization\nSurvey analysis\n\n\n\n\n\nDoes participation improve learning outcomes?\nDoes study quality affect attitudes?\nDoes motivation influence learning?\nDo attitudes predict future participation?\n\nView Presentation"
+  },
+  {
+    "objectID": "projects.html#project-1-social-media-campaign-review",
+    "href": "projects.html#project-1-social-media-campaign-review",
+    "title": "Marketing Projects",
+    "section": "",
+    "text": "For this project, I reviewed a sample social media campaign and looked at engagement, reach, and audience response.\nMain question:\nWhich type of content performed best?\nWhat I learned:\nPosts with clear visuals and short captions usually had stronger engagement."
+  },
+  {
+    "objectID": "projects.html#project-2-customer-persona",
+    "href": "projects.html#project-2-customer-persona",
+    "title": "Marketing Projects",
+    "section": "Project 2: Customer Persona",
+    "text": "Project 2: Customer Persona\n\nI created a customer persona based on demographic and interest-based information.\nPersona:\nA college student who likes affordable fashion, simple beauty products, and brands that feel authentic online.\nMarketing idea:\nUse short videos, student discounts, and relatable content to connect with this audience."
+  },
+  {
+    "objectID": "projects.html#project-3-email-marketing-example",
+    "href": "projects.html#project-3-email-marketing-example",
+    "title": "Marketing Projects",
+    "section": "Project 3: Email Marketing Example",
+    "text": "Project 3: Email Marketing Example\n\nThis project focused on creating a simple email campaign idea for a student-friendly brand.\nGoal:\nIncrease clicks to a product page.\nMetrics:\nOpen rate, click-through rate, and conversion rate."
+  },
+  {
+    "objectID": "digitalmarketing.html",
+    "href": "digitalmarketing.html",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "This page includes a few TikTok videos I created or selected as examples of digital marketing content. These videos show how short form content can be used to build engagement, share a message, and connect with an audience."
+  },
+  {
+    "objectID": "digitalmarketing.html#tiktok-content-portfolio",
+    "href": "digitalmarketing.html#tiktok-content-portfolio",
+    "title": "Digital Marketing Projects",
+    "section": "",
+    "text": "This page includes a few TikTok videos I created or selected as examples of digital marketing content. These videos show how short form content can be used to build engagement, share a message, and connect with an audience."
+  },
+  {
+    "objectID": "digitalmarketing.html#tiktok-video-1",
+    "href": "digitalmarketing.html#tiktok-video-1",
+    "title": "Digital Marketing Projects",
+    "section": "TikTok Video 1",
+    "text": "TikTok Video 1\nCampaign Goal:\nIncrease brand awareness through short-form video content.\nTarget Audience:\nCollege students and young adults interested in lifestyle, beauty, fashion, or student-friendly products.\nMarketing Strategy:\nThis video uses a quick hook, simple visuals, and a relatable message to keep viewers interested.\nWatch TikTok Video 1"
+  },
+  {
+    "objectID": "digitalmarketing.html#tiktok-video-2",
+    "href": "digitalmarketing.html#tiktok-video-2",
+    "title": "Digital Marketing Projects",
+    "section": "TikTok Video 2",
+    "text": "TikTok Video 2\nCampaign Goal:\nIncrease brand awareness by promoting their new sunscreen through short form video content.\nTarget Audience:\nPeople who are looking for an everyday use sunscreen.\nMarketing Strategy:\nApplying product and demonsatring the results right away.\nWatch TikTok Video 2"
+  },
+  {
+    "objectID": "digitalmarketing.html#tiktok-video-3",
+    "href": "digitalmarketing.html#tiktok-video-3",
+    "title": "Digital Marketing Projects",
+    "section": "TikTok Video 3",
+    "text": "TikTok Video 3\nCampaign Goal:\nIncrease brand awareness of their new product line of sunglasses wipes through short form video content.\nTarget Audience:\nCollege students who want to keep their sunglasses nice and clean at all times.\nMarketing Strategy:\nThis video focuses on authenticity and a casual style, which can make the content feel more personal and less like an ad.\nWatch TikTok Video 3"
+  },
+  {
+    "objectID": "digitalmarketing.html#what-i-learned",
+    "href": "digitalmarketing.html#what-i-learned",
+    "title": "Digital Marketing Projects",
+    "section": "What I Learned",
+    "text": "What I Learned\nShort-form videos can be powerful in digital marketing because they are quick, visual, and easy to share. TikTok content works best when it feels natural, relatable, and clear within the first few seconds."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "El Monte, CA\nEmail: vianey3146@gmail.com\nPhone: (626) 409-3146"
+  },
+  {
+    "objectID": "resume.html#vianey-villegas",
+    "href": "resume.html#vianey-villegas",
+    "title": "Resume",
+    "section": "",
+    "text": "El Monte, CA\nEmail: vianey3146@gmail.com\nPhone: (626) 409-3146"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\nCalifornia State Polytechnic University, Pomona\nBachelor of Science in Business Administration, Marketing Management\nExpected Graduation: May, 2027\nRio Hondo College\nAssociate of Science in Business Administration\nAssociate of Arts in Social Sciences\nAssociate of Science in Science & Mathematics\nGraduated: May, 2025"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nSupervisor & Barista\nTierra Mia – El Monte, CA\nJune 2024 – April, 2026\n\nSupervise daily operations and improve workflow efficiency\n\nManage cash handling and opening procedures\n\nResolve customer concerns in a professional manner\n\nTrain new employees on customer service and bar operations\n\n\n\n\nManagement / Business Owner\nVvaullt – El Monte, CA\nJanuary 2025 – Present\n\nFounded and manage a resale and coffee business\n\nAnalyze sales performance to adjust pricing and product strategy\n\nDevelop and manage social media marketing content\n\nHandle customer communication, orders, and shipping\n\n\n\n\nStudent Assistant\nRio Hondo Financial Aid Office – Whittier, CA\nFeb 2023 – Aug 2024\n\nAssisted students with financial aid questions and applications\n\nExplained deadlines, eligibility, and procedures clearly\n\nProcessed confidential records following FERPA guidelines\n\nSupported office tasks like data entry and filing\n\n\n\n\nArcade Associate\nRound 1 – City of Industry, CA\nJune 2022 – March 2023\n\nHandled POS transactions and register balancing\n\nMaintained organization and cleanliness of arcade space\n\nProvided customer service in a fast-paced environment"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nSocial Media Content Creation\n\nCustomer Relationship Management\n\nBasic Marketing & Branding\n\nTime Management & Multitasking"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nMicrosoft Excel (Basic)\n\nCanva\n\nGoogle Docs & Sheets\n\nPOS Systems"
+  },
+  {
+    "objectID": "resume.html#additional-information",
+    "href": "resume.html#additional-information",
+    "title": "Resume",
+    "section": "Additional Information",
+    "text": "Additional Information\nCertification: Certified Barista\nLanguages: English & Spanish"
+  },
+  {
+    "objectID": "resume.html#social-media",
+    "href": "resume.html#social-media",
+    "title": "Resume",
+    "section": "Social Media",
+    "text": "Social Media\nTikTok: @vianeyy.v"
+  },
+  {
+    "objectID": "resume.html#vianey-villegasdownload-my-resume-pdf",
+    "href": "resume.html#vianey-villegasdownload-my-resume-pdf",
+    "title": "Resume",
+    "section": "",
+    "text": "El Monte, CA\nEmail: vianey3146@gmail.com\nPhone: (626) 409-3146"
+  },
+  {
+    "objectID": "digitalmarketing.html#tiktok-videos",
+    "href": "digitalmarketing.html#tiktok-videos",
+    "title": "Digital Marketing Projects",
+    "section": "TikTok Videos",
+    "text": "TikTok Videos\nCampaign Goal:\nIncrease brand awareness of display at walmart through short form video content.\nTarget Audience:\nYoung female adults who are interested in lifestyle and beauty.\nMarketing Strategy:\nThis video uses a quick hook, product being used, and voiceover.\nWatch TikTok Video 1"
+  },
+  {
+    "objectID": "projects.html#research-participation-analysis",
+    "href": "projects.html#research-participation-analysis",
+    "title": "My Projects",
+    "section": "",
+    "text": "This project analyzed how students’ research participation relates to learning outcomes, attitudes, motivation, and future participation intentions.\n\n\n\n\nR\nQuarto\nggplot2\nData visualization\nSurvey analysis\n\n\n\n\n\nDoes participation improve learning outcomes?\nDoes study quality affect attitudes?\nDoes motivation influence learning?\nDo attitudes predict future participation?\n\nView Presentation"
+  },
+  {
+    "objectID": "projects.html#data-visualization-assignment",
+    "href": "projects.html#data-visualization-assignment",
+    "title": "My Projects",
+    "section": "Data Visualization Assignment",
+    "text": "Data Visualization Assignment\n\n\nOverview\nCreated visuals to practice data visualization using data.\n\n\nExample Visuals\n\nHistograms\nScatterplots\nBoxplots\nBar graphs\n\n\n\nKey Takeaway\nData visualization helped explain how participation experiences connect to student learning and engagement.\nView My assignment"
+  },
+  {
+    "objectID": "projects.html#marketing-analytics-case-study",
+    "href": "projects.html#marketing-analytics-case-study",
+    "title": "My Projects",
+    "section": "Marketing Analytics Case Study",
+    "text": "Marketing Analytics Case Study\n\n\nOverview\nIn my Consumer Behavior course, I worked on a project analyzing the brand ALO Yoga and developed a creative brand extension into the pet market.\nThe project explored how ALO’s identity could expand into pet products while maintaining brand consistency.\n\n\n\nWhat I Did\n\nAnalyzed ALO’s target audience and brand positioning\n\nApplied consumer behavior theories\n\nDeveloped a pet-focused product line concept\n\nCreated branding and marketing strategies\n\n\n\n\nKey Insight\nThe extension shows how lifestyle brands can expand into new markets by aligning with their customers’ values and behaviors.\n\n\n\nPresentation\nView My Project Slides"
+  },
+  {
+    "objectID": "googelanalytics.html",
+    "href": "googelanalytics.html",
+    "title": "Google Analytics Portfolio",
+    "section": "",
+    "text": "In this project, I learned how to use Google Analytics to understand website traffic, user behavior, and performance data. I learned how analytics can help improve a website by showing where visitors come from, what pages they view, and how they interact with content."
+  },
+  {
+    "objectID": "googelanalytics.html#vianey-villegas",
+    "href": "googelanalytics.html#vianey-villegas",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "El Monte, CA\nEmail: vianey3146@gmail.com\nPhone: (626) 409-3146"
+  },
+  {
+    "objectID": "googelanalytics.html#education",
+    "href": "googelanalytics.html#education",
+    "title": "Google Analytics",
+    "section": "Education",
+    "text": "Education\nCalifornia State Polytechnic University, Pomona\nBachelor of Science in Business Administration, Marketing Management\nExpected Graduation: May, 2027\nRio Hondo College\nAssociate of Science in Business Administration\nAssociate of Arts in Social Sciences\nAssociate of Science in Science & Mathematics\nGraduated: May, 2025"
+  },
+  {
+    "objectID": "googelanalytics.html#professional-experience",
+    "href": "googelanalytics.html#professional-experience",
+    "title": "Google Analytics",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nSupervisor & Barista\nTierra Mia – El Monte, CA\nJune 2024 – April, 2026\n\nSupervise daily operations and improve workflow efficiency\n\nManage cash handling and opening procedures\n\nResolve customer concerns in a professional manner\n\nTrain new employees on customer service and bar operations\n\n\n\n\nManagement / Business Owner\nVvaullt – El Monte, CA\nJanuary 2025 – Present\n\nFounded and manage a resale and coffee business\n\nAnalyze sales performance to adjust pricing and product strategy\n\nDevelop and manage social media marketing content\n\nHandle customer communication, orders, and shipping\n\n\n\n\nStudent Assistant\nRio Hondo Financial Aid Office – Whittier, CA\nFeb 2023 – Aug 2024\n\nAssisted students with financial aid questions and applications\n\nExplained deadlines, eligibility, and procedures clearly\n\nProcessed confidential records following FERPA guidelines\n\nSupported office tasks like data entry and filing\n\n\n\n\nArcade Associate\nRound 1 – City of Industry, CA\nJune 2022 – March 2023\n\nHandled POS transactions and register balancing\n\nMaintained organization and cleanliness of arcade space\n\nProvided customer service in a fast-paced environment"
+  },
+  {
+    "objectID": "googelanalytics.html#skills",
+    "href": "googelanalytics.html#skills",
+    "title": "Google Analytics",
+    "section": "Skills",
+    "text": "Skills\n\nSocial Media Content Creation\n\nCustomer Relationship Management\n\nBasic Marketing & Branding\n\nTime Management & Multitasking"
+  },
+  {
+    "objectID": "googelanalytics.html#technical-skills",
+    "href": "googelanalytics.html#technical-skills",
+    "title": "Google Analytics",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nMicrosoft Excel (Basic)\n\nCanva\n\nGoogle Docs & Sheets\n\nPOS Systems"
+  },
+  {
+    "objectID": "googelanalytics.html#additional-information",
+    "href": "googelanalytics.html#additional-information",
+    "title": "Google Analytics",
+    "section": "Additional Information",
+    "text": "Additional Information\nCertification: Certified Barista\nLanguages: English & Spanish"
+  },
+  {
+    "objectID": "googelanalytics.html#social-media",
+    "href": "googelanalytics.html#social-media",
+    "title": "Google Analytics",
+    "section": "Social Media",
+    "text": "Social Media\nTikTok: @vianeyy.v"
+  },
+  {
+    "objectID": "projects.html#creating-a-new-app-to-target-college-students",
+    "href": "projects.html#creating-a-new-app-to-target-college-students",
+    "title": "My Projects",
+    "section": "Creating a New App to Target College Students",
+    "text": "Creating a New App to Target College Students\n\n\nOverview\nIn my computer information systems class, our final project was to create an app we think targets college students. My team and I created Spend Smarties, a budgeting app that will help students budget their income and save money. It tracks every transcations and gives budegts per category, and it connects directy to your bank account.\n\n\n\nWhat I Did\n\nresearched related apps to create a perceptual map and see where the gap is in the market\nI tested the app with 10 people and got thei opinion on the app.\ncreated a survey and then analyzed the data\n\n\n\n\nKey Insight\nMany students struggle to control their budgeting because they don’t have the tools to track, so our Spend Smarties offers those tools to facilitate budgeting.\n\n\n\nPresentation\nView My Project Slides"
+  },
+  {
+    "objectID": "projects.html#data-visualization-assignment-1",
+    "href": "projects.html#data-visualization-assignment-1",
+    "title": "My Projects",
+    "section": "Data Visualization Assignment",
+    "text": "Data Visualization Assignment\n\n\nOverview\nCreated visuals to practice data visualization using data.\n\n\nExample Visuals\n\nHistograms\nScatterplots\nBoxplots\nBar graphs\n\n\n\nKey Takeaway\nData visualization helped explain how participation experiences connect to student learning and engagement.\nView My assignment"
+  },
+  {
+    "objectID": "dashboard.html#overview",
+    "href": "dashboard.html#overview",
+    "title": "Dashboard Examples",
+    "section": "Overview",
+    "text": "Overview\nI created two dashboards this semster, one based on consumer behavior survey data about pet ownership, monthly pet spending, daily activities with pets, and how much pets influence lifestyle decisions, and the other focuses on data from COVID employment."
+  },
+  {
+    "objectID": "dashboard.html#dashboard",
+    "href": "dashboard.html#dashboard",
+    "title": "Dashboard Examples",
+    "section": "Dashboard",
+    "text": "Dashboard\nOn my dashboard page, I created graphs and data visuals based on a consumer behavior survey about pets."
+  },
+  {
+    "objectID": "dashboard.html#survey-report",
+    "href": "dashboard.html#survey-report",
+    "title": "Dashboard Examples",
+    "section": "Survey Report",
+    "text": "Survey Report"
+  },
+  {
+    "objectID": "dashboard.html#dashbaord-assignment-m10",
+    "href": "dashboard.html#dashbaord-assignment-m10",
+    "title": "Dashboard Examples",
+    "section": "Dashbaord Assignment M10",
+    "text": "Dashbaord Assignment M10"
+  },
+  {
+    "objectID": "dashboard.html#shiny-app",
+    "href": "dashboard.html#shiny-app",
+    "title": "Dashboard Examples",
+    "section": "Shiny App",
+    "text": "Shiny App\nOn this tab, I will summarize what I learned about Shiny apps and explain it in a simple way."
+  },
+  {
+    "objectID": "dashboard.html#shiny-live",
+    "href": "dashboard.html#shiny-live",
+    "title": "Dashboard Examples",
+    "section": "Shiny Live",
+    "text": "Shiny Live\nOn this tab, I will explain what Shiny Live is and how it can be used in web-based projects.\nView my project"
+  },
+  {
+    "objectID": "M10-summary/shinylive.html",
+    "href": "M10-summary/shinylive.html",
+    "title": "Shiny Live",
+    "section": "",
+    "text": "Shinylive is helpful when you need to use Shiny apps. it avoids needing a server because Shinylive removes it by simply running the information directly from the device. To use Shinylive, you need R codes. In other words it’s more simply than Shiny Apps. Shinylive should be used when you want to teach someone about interactive websites, want easier deployment, and if you want a simple interactive dashboard."
+  },
+  {
+    "objectID": "M10-summary/shinylive.html#what-is-shinylive-assume-that-you-are-also-explaining-it-to-your-coworkers.-how-does-it-differ-from-the-traditional-shiny-app-introduced-in-step-2-what-are-the-pros-and-cons-of-shinylive-in-comparison-with-shiny-apps",
+    "href": "M10-summary/shinylive.html#what-is-shinylive-assume-that-you-are-also-explaining-it-to-your-coworkers.-how-does-it-differ-from-the-traditional-shiny-app-introduced-in-step-2-what-are-the-pros-and-cons-of-shinylive-in-comparison-with-shiny-apps",
+    "title": "Shiny Live",
+    "section": "",
+    "text": "Shinylive is helpful when you need to use Shiny apps. it avoids needing a server because Shinylive removes it by simply running the information directly from the device. To use Shinylive, you need R codes. In other words it’s more simply than Shiny Apps. Shinylive should be used when you want to teach someone about interactive websites, want easier deployment, and if you want a simple interactive dashboard."
+  },
+  {
+    "objectID": "M10-summary/index.html",
+    "href": "M10-summary/index.html",
+    "title": "Welcome to My M10 Quarto Website",
+    "section": "",
+    "text": "For today’s assignment,I’m going to imply what I learned in the modeule, which was to create a dashboard and a website. During the lecture video, I learned how to use python, shiny, and create dashboards from datasets."
+  },
+  {
+    "objectID": "M10-summary/index.html#overview",
+    "href": "M10-summary/index.html#overview",
+    "title": "Welcome to My M10 Quarto Website",
+    "section": "",
+    "text": "For today’s assignment,I’m going to imply what I learned in the modeule, which was to create a dashboard and a website. During the lecture video, I learned how to use python, shiny, and create dashboards from datasets."
+  },
+  {
+    "objectID": "M10-summary/index.html#dashboard",
+    "href": "M10-summary/index.html#dashboard",
+    "title": "Welcome to My M10 Quarto Website",
+    "section": "Dashboard:",
+    "text": "Dashboard:\nOn my dashboard section, I will create graphs and data visuals based off a COVID employment dataset."
+  },
+  {
+    "objectID": "M10-summary/index.html#shiny-app",
+    "href": "M10-summary/index.html#shiny-app",
+    "title": "Welcome to My M10 Quarto Website",
+    "section": "Shiny App",
+    "text": "Shiny App\nOn this tab, I will summarize what I learned about shiny app and try to explain as if I was telling a friend."
+  },
+  {
+    "objectID": "M10-summary/index.html#shiny-live",
+    "href": "M10-summary/index.html#shiny-live",
+    "title": "Welcome to My M10 Quarto Website",
+    "section": "Shiny live",
+    "text": "Shiny live\nI will explain what shiny live is, after watching the lecture video and doing further research.\n{view my website}(/Users/vianeyv/Desktop/Ibm-Portfolio/Villegas-Vianey-Portfolio/M10-summary/_site/index.html)"
+  },
+  {
+    "objectID": "M10-summary/dashboard.html",
+    "href": "M10-summary/dashboard.html",
+    "title": "Interactive Dashboard",
+    "section": "",
+    "text": "library(ggplot2)\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ lubridate 1.9.4     ✔ tibble    3.3.1\n✔ purrr     1.2.1     ✔ tidyr     1.3.2\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(gt)\n\n\ndf &lt;- read.csv(\"Employment - National - Weekly.csv\")\n\n# Create date column\ndf$date &lt;- as.Date(paste(df$year, df$month, df$day_endofweek, sep = \"-\"))\n\n\nggplot(df, aes(x = date, y = emp)) +\n  geom_line(color = \"pink\") +\n  labs(x = \"Date\", y = \"Employment\")\n\n\n\n\n\n\n\n\n\ndf &lt;- read.csv(\"Employment - National - Weekly.csv\")\n\ndf$date &lt;- as.Date(paste(df$year, df$month, df$day_endofweek, sep = \"-\"))\n\ndf &lt;- df %&gt;%\n  mutate(\n    emp_incq1 = as.numeric(emp_incq1),\n    emp_incq2 = as.numeric(emp_incq2),\n    emp_incq3 = as.numeric(emp_incq3),\n    emp_incq4 = as.numeric(emp_incq4)\n  )\n\nWarning: There was 1 warning in `mutate()`.\nℹ In argument: `emp_incq4 = as.numeric(emp_incq4)`.\nCaused by warning:\n! NAs introduced by coercion\n\ndf_long &lt;- df %&gt;%\n  select(date, emp_incq1, emp_incq2, emp_incq3, emp_incq4) %&gt;%\n  pivot_longer(\n    cols = starts_with(\"emp_incq\"),\n    names_to = \"income_group\",\n    values_to = \"employment\"\n  )\n\nggplot(df_long, aes(x = income_group, y = employment, fill = income_group)) +\n  geom_col() +\n  labs(\n    title = \"Employment by Income Group\",\n    x = \"Income Group\",\n    y = \"Employment\",\n    fill = \"Income Group\"\n  ) +\n  theme_minimal()\n\nWarning: Removed 174 rows containing missing values or values outside the scale range\n(`geom_col()`).\n\n\n\n\n\n\n\n\n\n::: callout note emp_incq# stands for employment, income quartile, and # is the group :::\n\nlibrary(tidyverse)\n\ndf &lt;- read.csv(\"Employment - National - Weekly.csv\")\n\ndf$date &lt;- as.Date(paste(df$year, df$month, df$day_endofweek, sep = \"-\"))\n\n\nggplot(df, aes(x = emp)) +\n  geom_histogram(bins = 30, fill = \"pink\") +\n  labs(x = \"Employment Change\", y = \"Count\")"
+  },
+  {
+    "objectID": "M10-summary/shiny-apps.html",
+    "href": "M10-summary/shiny-apps.html",
+    "title": "Shiny App Summary",
+    "section": "",
+    "text": "When you think of the Shiny app, think of a website that is interactive, that was built in Rstudio. The Shiny app creates interactive dashboards. It makes it more fun because instead of having a static website, the viewers are able to interactive with the data visuals like:\n\nclick buttons\nchoose different options\nmove sliders\n\nTo create the interactive dashbaord, you have to have a user interface which is what the users see and a server.\nUser Interface - the intercative dashboards - titles - charts/graphs\nServer - codes - controls dashbaord - process information - updates the graphs"
+  },
+  {
+    "objectID": "M10-summary/shiny-apps.html#create-a-lecture-note-that-you-can-use-to-teach-the-person.-this-will-become-part-of-the-website-under-essay-on-shiny-apps.",
+    "href": "M10-summary/shiny-apps.html#create-a-lecture-note-that-you-can-use-to-teach-the-person.-this-will-become-part-of-the-website-under-essay-on-shiny-apps.",
+    "title": "Shiny App Summary",
+    "section": "",
+    "text": "When you think of the Shiny app, think of a website that is interactive, that was built in Rstudio. The Shiny app creates interactive dashboards. It makes it more fun because instead of having a static website, the viewers are able to interactive with the data visuals like:\n\nclick buttons\nchoose different options\nmove sliders\n\nTo create the interactive dashbaord, you have to have a user interface which is what the users see and a server.\nUser Interface - the intercative dashboards - titles - charts/graphs\nServer - codes - controls dashbaord - process information - updates the graphs"
+  },
+  {
+    "objectID": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#reflection",
+    "href": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#reflection",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Reflection",
+    "text": "Reflection\nAdvanced R Programming"
+  },
+  {
+    "objectID": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#example-function",
+    "href": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#example-function",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Example Function",
+    "text": "Example Function\n\nadd_numbers &lt;- function(x, y) {\n  return(x + y)\n}\n\nadd_numbers(3, 5)\n\n[1] 8"
+  },
+  {
+    "objectID": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#example",
+    "href": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#example",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Example",
+    "text": "Example\n\nlibrary(purrr)\n\nnumbers &lt;- list(1, 2, 3, 4)\n\nsquared &lt;- map(numbers, ~ .x^2)\n\nsquared\n\n[[1]]\n[1] 1\n\n[[2]]\n[1] 4\n\n[[3]]\n[1] 9\n\n[[4]]\n[1] 16"
+  },
+  {
+    "objectID": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#example-1",
+    "href": "M12/Villegas, Vianey-M12-Reflection Essay-Adv Program in R.html#example-1",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Example:",
+    "text": "Example:\n\nparams &lt;- list(name = \"Student\")\n\npaste(\"Hello\", params$name)\n\n[1] \"Hello Student\""
+  },
+  {
+    "objectID": "revealjspresentation.html",
+    "href": "revealjspresentation.html",
+    "title": "Reveal js Presentation",
+    "section": "",
+    "text": "This presentation was created using Reveal.js through Quarto to showcase my work in a clear, interactive slide format. It demonstrates my ability to organize and present technical concepts effectively while using modern web-based tools. By including this presentation, I highlight my understanding of advanced R programming and my ability to communicate data-driven insights in a professional and visually engaging way.\nView Presentation"
+  },
+  {
+    "objectID": "revealjspresentation.html#reveal.js-presentation",
+    "href": "revealjspresentation.html#reveal.js-presentation",
+    "title": "Reveal.js Presentation",
+    "section": "",
+    "text": "This presentation was created using Reveal.js through Quarto to showcase my work in a clear, interactive slide format. It demonstrates my ability to organize and present technical concepts effectively while using modern web-based tools. By including this presentation, I highlight my understanding of advanced R programming and my ability to communicate data-driven insights in a professional and visually engaging way."
+  },
+  {
+    "objectID": "presentationm12.html#reflection",
+    "href": "presentationm12.html#reflection",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Reflection",
+    "text": "Reflection\nAdvanced R Programming"
+  },
+  {
+    "objectID": "presentationm12.html#example-function",
+    "href": "presentationm12.html#example-function",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Example Function",
+    "text": "Example Function\n\nadd_numbers &lt;- function(x, y) {\n  return(x + y)\n}\n\nadd_numbers(3, 5)\n\n[1] 8"
+  },
+  {
+    "objectID": "presentationm12.html#example",
+    "href": "presentationm12.html#example",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Example",
+    "text": "Example\n\nlibrary(purrr)\n\nnumbers &lt;- list(1, 2, 3, 4)\n\nsquared &lt;- map(numbers, ~ .x^2)\n\nsquared\n\n[[1]]\n[1] 1\n\n[[2]]\n[1] 4\n\n[[3]]\n[1] 9\n\n[[4]]\n[1] 16"
+  },
+  {
+    "objectID": "presentationm12.html#example-1",
+    "href": "presentationm12.html#example-1",
+    "title": "M12-Reflection Essay-Advanced R Programming",
+    "section": "Example:",
+    "text": "Example:\n\nparams &lt;- list(name = \"Student\")\n\npaste(\"Hello\", params$name)\n\n[1] \"Hello Student\""
+  },
+  {
+    "objectID": "revealjspresentation.html#skills",
+    "href": "revealjspresentation.html#skills",
+    "title": "Reveal js Presentation",
+    "section": "Skills",
+    "text": "Skills\nThis presentation demonstrates my skills in data analysis, visualization, and communicating insights using R and Quarto."
+  },
+  {
+    "objectID": "googelanalytics.html#google-analytics-portfolio-project",
+    "href": "googelanalytics.html#google-analytics-portfolio-project",
+    "title": "Google Analytics Portfolio",
+    "section": "",
+    "text": "In this project, I learned how to use Google Analytics to understand website traffic, user behavior, and performance data. I learned how analytics can help improve a website by showing where visitors come from, what pages they view, and how they interact with content.\n\n\n\nHow to track website visitors\nHow to analyze traffic sources\nHow to understand user behavior\nHow to read reports and key metrics\nHow data helps improve website performance\n\n\n\n\n\nData analysis\nWebsite performance tracking\nUnderstanding user engagement\nReading analytics reports\nMaking decisions using data\n\n\n\n\nknitr::include_graphics(c( “image1.jpg”, “image2.jpg”, “image3.jpg” ))ow data can help improve website performance\n\n\n\n\n\nData analysis\n\n\nWebsite performance tracking\n\n\nUnderstanding user behavior\n\n\nUsing analytics reports to make decisions\n\n\n\n&lt;img src=\"image1.jpg\" alt=\"Google Analytics dashboard screenshot\"&gt;\n&lt;img src=\"image2.jpg\" alt=\"Website traffic report screenshot\"&gt;\n&lt;img src=\"image3.jpg\" alt=\"Analytics data chart screenshot\"&gt;"
+  },
+  {
+    "objectID": "googel-analytics.html",
+    "href": "googel-analytics.html",
+    "title": "Google Analytics Portfolio",
+    "section": "",
+    "text": "In this project, I learned how to use Google Analytics to understand website traffic, user behavior, and performance data. I learned how analytics can help improve a website by showing where visitors come from, what pages they view, and how they interact with content.\n\nWhat I Learned\n\nHow to track website visitors\nHow to analyze traffic sources\nHow to understand user behavior\nHow to read reports and key metrics\nHow data helps improve website performance\n\n\n\nSkills I Gained\n\nData analysis\nWebsite performance tracking\nUnderstanding user engagement\nReading analytics reports\nMaking decisions using data\n\n\n\nProject Images\ndata can help improve website performance\n\n\n\nSkills I Gained\n\n\n\nData analysis\n\n\nWebsite performance tracking\n\n\nUnderstanding user behavior\n\n\nUsing analytics reports to make decisions\n\n\n\n&lt;img src=\"google5.png\" alt=\"Google Analytics dashboard screenshot\"&gt;\n&lt;img src=\"google6.png\" alt=\"Website traffic report screenshot\"&gt;\n&lt;img src=\"google1.png\" alt=\"Analytics data chart screenshot\"&gt;"
+  },
+  {
+    "objectID": "googelanalytics.html#project-images",
+    "href": "googelanalytics.html#project-images",
+    "title": "Google Analytics Portfolio",
+    "section": "Project Images",
+    "text": "Project Images"
+  },
+  {
+    "objectID": "googelanalytics.html#project-images-1",
+    "href": "googelanalytics.html#project-images-1",
+    "title": "Google Analytics Portfolio",
+    "section": "Project Images",
+    "text": "Project Images"
+  }
+]
