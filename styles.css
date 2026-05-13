@@ -32,3 +32,24 @@ a {
   border-radius: 14px;
   text-decoration: none;
 }/* css styles */
+
+.intro-flex {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  background: #fdf2f4;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.intro-text {
+  flex: 1;
+}
